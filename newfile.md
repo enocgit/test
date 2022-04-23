@@ -3,3 +3,5 @@
 # I believe you are doing good
 
 # This text is written from the new branch
+
+# Creating a third branch naming it 'third'
