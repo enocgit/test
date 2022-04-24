@@ -7,3 +7,5 @@
 # Creating a third branch naming it 'third'
 
 # Added from global repo master branch
+
+# Pushing from local repo to global repo
